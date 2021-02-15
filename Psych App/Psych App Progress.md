@@ -1,7 +1,9 @@
 ---
-date updated: '2021-02-15T10:53:09+02:00'
+date updated: '2021-02-15T11:25:42+02:00'
 
 ---
+
+[[Psych App Ideas]]
 
 ### Todo
 
@@ -20,9 +22,48 @@ Steps
   - Home
   - Emergency Notes
   - Contacts/Patients
+  - Archived C/P
   - Add Note
   - Add to Calendar
+  - Mark Day Off
 - Emergency Notes
-  -  [ ] List of notes
-    -  [ ] Add note to contact
+  - [ ] List of notes
+  - [ ] Add note to contact
   - [ ] Delete Note
+- Contacts/Patients
+  - [ ] List of Contacts
+    - [ ] Avatar
+    - [ ] Name
+- Contact/Patient
+  - [ ] Avatar
+  - [ ] Info
+    - [ ] Prescription
+    - [ ] Phone number
+    - [ ] Added
+  - [ ] Notes
+    - [ ] List of Notes
+  - [ ] Next appointment
+    - [ ] Schedule
+    - [ ] Edit
+    - [ ] Delete
+  - [ ] Archive C/P
+- Archived Cs/Ps
+  - [ ] List of Archived
+- Archived C/P
+  - [ ] Avatar
+  - [ ] Info
+    - [ ] Prescription
+    - [ ] Phone number
+    - [ ] Added
+    - [ ] Archived
+  - [ ] Notes
+    - [ ] List of Notes
+  - [ ] Unarchive
+- Add Note/Emergency Note
+  - [ ] Title/Name
+  - [ ] Note Field
+- Add to Calendar
+  - [ ] Date picker
+  - [ ] Title/Contact
+- Mark Day Off
+  - [ ] Date Picker
