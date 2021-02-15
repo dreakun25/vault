@@ -1,5 +1,5 @@
 ---
-date updated: '2021-02-15T11:25:42+02:00'
+date updated: '2021-02-15T11:48:25+02:00'
 
 ---
 
@@ -17,15 +17,15 @@ Steps
   - [ ] Existing User
   - [ ] Emergency Note
 - Main Page
-- [ ] Calendar
-- [ ] Sidebar
-  - Home
-  - Emergency Notes
-  - Contacts/Patients
-  - Archived C/P
-  - Add Note
-  - Add to Calendar
-  - Mark Day Off
+  - [ ] Calendar
+  - [ ] Sidebar
+   - Home
+   - Emergency Notes
+   - Contacts/Patients
+   - Archived C/P
+   - Add Note
+   - Add to Calendar
+   - Mark Day Off
 - Emergency Notes
   - [ ] List of notes
   - [ ] Add note to contact
